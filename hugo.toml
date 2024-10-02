@@ -1,0 +1,79 @@
+baseURL = '/'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = "Something"
+theme = 'anubis2'
+disqusShortname = ""
+
+[params.author]
+name = "Axel Guarneros"
+email  = "blog@daguva.com"
+
+[params]
+description = "codeGAX Blog"
+dateFormat = "2006-01-02"
+paginationSinglePost = true
+
+colorTheme = "dark"
+colorThemeSwitcher = true
+
+readMore = false
+readNextPosts = 2
+copyCodeButton = true
+rssAsSocialIcon = true
+locale = "en-us"
+toc = true
+
+
+social = [
+    { id = "github", url = "https://github.com/Junyi-99/hugo-theme-anubis2" },
+    { id = "linkedin", url = "https://www.linkedin.com/" },
+    { id = "email", url = "blog@daguva.com" },
+    { id = "x", url = "https://x.com/codegax" },
+]
+
+[[menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Archive"
+identifier = "archive"
+url = "/posts/"
+weight = 3
+
+[languages]
+[languages.en]
+languageName = "English"
+
+[languages.es]
+languageName = "Español"
+
+[[languages.es.menu.main]]
+identifier = "home"
+name = "Inicio"
+url = "/"
+weight = 1
+
+[[languages.es.menu.main]]
+identifier = "about"
+name = "Acerca de"
+url = "/about/"
+weight = 2
+
+[[languages.es.menu.main]]
+identifier = "archive"
+name = "Archivo"
+url = "/posts/"
+weight = 4
+
+[languages.es.params]
+languageCode = "es-la"
