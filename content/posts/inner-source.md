@@ -1,9 +1,7 @@
 ---
 title: "Inner Source is NOT a lie!"
 description: "Inner source needs to be implemented correctly to be successful."
-date: "2024-10-02"
-draft: true
-hidden: false
+date: "2024-10-03"
 tags: [inner-source, collaboration, enterprise]
 ---
 

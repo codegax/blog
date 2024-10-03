@@ -1,9 +1,7 @@
 ---
 title: "El Inner Source SI funciona!"
 description: "Inner source necesita ser implementado de manera correcta para que funcione."
-date: "2024-10-02"
-draft: true
-hidden: false
+date: "2024-10-03"
 tags: [inner-source, collaboration, enterprise]
 ---
 
