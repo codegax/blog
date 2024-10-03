@@ -1,0 +1,3 @@
+[submodule "themes/anubis2"]
+	path = themes/anubis2
+	url = https://github.com/codegax/hugo-theme-anubis2.git
