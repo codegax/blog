@@ -25,6 +25,11 @@ This is particularly evident in companies with development teams divided into di
 
 In these cases, inner source can help align the various departments, allowing the development team to operate as a single unit instead of each department creating its own solution to the same problem.
 
+```
+You can't develop software anymore these days withouut doing open source.
+- Wolfgang Gehring, FOSSS Ambassador @ Mercedz-Benz
+```
+
 ### Hypothetical Scenario
 
 Imagine you have a company with multiple locations around the world, not only each with its own development team but with teams separated by departments. All locations have to predict shortages on their products and they all have to create a solution to predict these shortages:
