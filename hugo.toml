@@ -25,7 +25,6 @@ rssAsSocialIcon = true
 locale = "en-us"
 toc = false
 
-
 social = [
     { id = "github", url = "https://github.com/codegax" },
     { id = "linkedin", url = "https://www.linkedin.com/in/axel-guarneros-1155371b9/" },

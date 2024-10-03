@@ -9,6 +9,8 @@ tags: [inner-source, collaboration, enterprise]
 
 Regardless of what you might have heard on the internet (possibly from a tech influencer with a mustache who dislikes ReactJS), **inner source** is real and it's a fantastic way to foster collaboration and innovation within your organization, much like open source does in the wider community.
 
+<!--more-->
+
 ## What is Inner Source?
 
 Inner source brings the open-source model into a company, allowing teams to collaborate on internal projects. It promotes transparency and shared development, helping teams improve systems together and avoid duplicated work.

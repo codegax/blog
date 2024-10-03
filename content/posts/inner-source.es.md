@@ -1,6 +1,6 @@
 ---
 title: "El Inner Source SI funciona!"
-description: "Inner source necesita ser implementado de manera correcta para que funcione. Descubre cómo puedes aprovechar al máximo esta metodología en tu organización."
+description: "Inner source necesita ser implementado de manera correcta para que funcione."
 date: "2024-10-02"
 draft: true
 hidden: false
@@ -8,6 +8,8 @@ tags: [inner-source, collaboration, enterprise]
 ---
 
 Independientemente de lo que hayas escuchado en internet (posiblemente de un influencer tech con el cabello largo, lentes y que no le gusta para nada ReactJS), **inner source** es real y es una excelente forma de fomentar la colaboración e innovación dentro de tu empresa, al igual que lo hace el software open source en la comunidad global.
+
+<!--more-->
 
 ## ¿Qué es Inner Source?
 
