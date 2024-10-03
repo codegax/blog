@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
-title = "Something"
+title = "Daguva"
 theme = 'anubis2'
 disqusShortname = ""
 
