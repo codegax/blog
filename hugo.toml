@@ -22,7 +22,7 @@ readNextPosts = 2
 copyCodeButton = true
 rssAsSocialIcon = true
 locale = "en-us"
-toc = true
+toc = false
 
 
 social = [
