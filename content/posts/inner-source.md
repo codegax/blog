@@ -7,7 +7,7 @@ hidden: false
 tags: [inner-source, collaboration, enterprise]
 ---
 
-Regardless of what you might have heard on the internet (possibly from a tech influencer with a mustache who dislikes ReactJS), inner source is real and it's a fantastic way to foster collaboration and innovation within your organization, much like open source does in the wider community.
+Regardless of what you might have heard on the internet (possibly from a tech influencer with a mustache who dislikes ReactJS), **inner source** is real and it's a fantastic way to foster collaboration and innovation within your organization, much like open source does in the wider community.
 
 ## What is Inner Source?
 
@@ -15,7 +15,7 @@ Inner source brings the open-source model into a company, allowing teams to coll
 
 ## Why the Skepticism?
 
-While "hate" might be too strong a word, there are certainly many who are skeptical about the benefits of inner source. The main issue is that many people use it as a justification for their choice of tech stack. Critics argue that inner source is not worth the effort because they believe no one will contribute to their projects. In an organization, everyone has their own tasks and priorities, and they may be reluctant to spend time on something that doesn't directly benefit their immediate goals.
+While "hate" might be too strong a word, there are certainly many who are skeptical about the benefits of inner source. The main issue is that many people use it as a **justification** for their choice of tech stack. Critics argue that inner source is not worth the effort because they believe no one will contribute to their projects. In an organization, everyone has their own tasks and priorities, and they may be reluctant to spend time on something that doesn't directly benefit their immediate goals.
 The Real Benefits of Inner Source
 
 But here’s the thing: the reality is often quite different. Inner source can bring about some amazing benefits—if you know where to apply it. Have you ever considered which areas in your organization could truly benefit from this approach?
