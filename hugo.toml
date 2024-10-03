@@ -10,10 +10,10 @@ name = "Axel Guarneros"
 email  = "blog@daguva.com"
 
 [params]
-description = "codeGAX Blog"
+description = "Daguva Blog by codegax"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
-maxWidth = "90em"
+maxWidth = "92em"
 
 colorTheme = "dark"
 colorThemeSwitcher = true
@@ -27,8 +27,8 @@ toc = false
 
 
 social = [
-    { id = "github", url = "https://github.com/Junyi-99/hugo-theme-anubis2" },
-    { id = "linkedin", url = "https://www.linkedin.com/" },
+    { id = "github", url = "https://github.com/codegax" },
+    { id = "linkedin", url = "https://www.linkedin.com/in/axel-guarneros-1155371b9/" },
     { id = "email", url = "blog@daguva.com" },
     { id = "x", url = "https://x.com/codegax" },
 ]

@@ -5,22 +5,16 @@ date: "2024-04-09"
 aliases: ["about-us"]
 ---
 
-[Anubis2](https://github.com/Junyi-99/hugo-theme-anubis2) is another simple minimalist theme for Hugo blog engine.
+**¡Hola!** Soy Axel Guarneros (_codegax_), un ingeniero de software apasionado por desarrollar soluciones empresariales y explorar nuevas tecnologías. Mi carrera en el desarrollo de software ha estado llena de retos que me han permitido empujar los límites y descubrir enfoques innovadores en cada proyecto.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Con experiencia en desarrollo full-stack, DevOps y optimización de código, he logrado implementar soluciones que no solo funcionan, sino que generan un verdadero impacto. He tenido la oportunidad de liderar la implementación de aplicaciones en diferentes partes del mundo, siempre buscando mejorar y aprender.
 
-Hugo makes use of a variety of open source projects including:
+## ¿Por Qué Este Blog?
 
-- <https://github.com/yuin/goldmark>
-- <https://github.com/alecthomas/chroma>
-- <https://github.com/muesli/smartcrop>
-- <https://github.com/spf13/cobra>
-- <https://github.com/spf13/viper>
+Este blog es mi espacio para compartir ideas, experiencias técnicas y aprendizajes personales en el mundo del desarrollo de software. Cada entrada refleja mi compromiso con la mejora continua y mi creencia de que las mejores soluciones provienen de pensar fuera de lo convencional. Ya sea explorando prácticas de código abierto o resolviendo problemas complejos, mi objetivo es generar conversaciones que beneficien a otros desarrolladores y entusiastas de la tecnología.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## ¿Qué Me Impulsa?
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Lo que más me motiva es resolver problemas que realmente importan y construir herramientas que hagan la diferencia. Creo en el poder de la colaboración, en el código abierto y en cómo una comunidad puede transformar la tecnología.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+En este blog compartiré mis opiniones y conocimientos técnicos, así que si te apasiona la tecnología de vanguardia, te interesa el código abierto o simplemente disfrutas de leer sobre la experiencia en el desarrollo de software, este espacio es para ti.
