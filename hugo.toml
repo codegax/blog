@@ -13,6 +13,7 @@ email  = "blog@daguva.com"
 description = "codeGAX Blog"
 dateFormat = "2006-01-02"
 paginationSinglePost = true
+maxWidth = "90em"
 
 colorTheme = "dark"
 colorThemeSwitcher = true
