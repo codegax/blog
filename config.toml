@@ -26,6 +26,13 @@ rssAsSocialIcon = true
 locale = "en-us"
 toc = false
 
+GiscusRepo = "codegax/blog"
+GiscusRepoId = "R_kgDOLj2dnA"
+GiscusCategory = "General"
+GiscusCategoryId = "DIC_kwDOLj2dnM4CjC4O"
+GiscusLazyLoad = false
+GiscusDataMapping = "pathname"
+
 social = [
     { id = "github", url = "https://github.com/codegax" },
     { id = "linkedin", url = "https://www.linkedin.com/in/axel-guarneros-1155371b9/" },
