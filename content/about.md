@@ -5,6 +5,8 @@ date: "2024-04-09"
 aliases: ["about-us"]
 ---
 
+![Axel Guarneros Picture](/images/axel-guarneros.jpg)
+
 ## Who?
 
 **Hi**, I'm Axel Guarneros (_codegax_), a passionate Software Engineer dedicated to crafting enterprise-level solutions and exploring innovative technologies. I’ve always thrived in the dynamic world of software development, where every challenge offers a chance to push boundaries and discover new approaches.
