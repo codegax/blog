@@ -9,6 +9,8 @@ Regardless of what you might have heard on the internet (possibly from a tech in
 
 <!--more-->
 
+![inner-source](/images/inner-source.webp)
+
 ## What is Inner Source?
 
 Inner source brings the open-source model into a company, allowing teams to collaborate on internal projects. It promotes transparency and shared development, helping teams improve systems together and avoid duplicated work.
